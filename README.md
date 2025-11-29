@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 😶‍🌫️
 
-<!--
-**barbiegirlfan97/barbiegirlfan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm keegan a university student based in south africa
 
-Here are some ideas to get you started:
+trying to turn my ideas from a thought into a reality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently working on learning unity using C# and sharing the cool projects i make along my journey
+
+🔭 fun facts about myself:
+
+- i dont like coffee 🥴
+- monster addict 🍾
+- <b> hobbies </b> : anime, gaming, skateboarding, football
+
